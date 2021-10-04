@@ -6,7 +6,7 @@
   }
   
   html {
-    scroll-padding-top: 70px;
+    /* scroll-padding-top: 70px; */
     scroll-behavior: smooth;
   }
   body {
@@ -32,6 +32,7 @@
     list-style: none;
     float: right;
     padding: 0 20px;
+    /* width: 100%; */
   }
   
   .menu li {
